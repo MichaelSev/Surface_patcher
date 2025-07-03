@@ -183,7 +183,7 @@ class my_patcherWidget(ScriptedLoadableModuleWidget):
     self.outlinePointsInput2.setText("1,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,4")
     self.outlinePointsInput2.setToolTip("Landmark numbers,it has to started with the shared corner between line one and two")
 
-    # Unsued, 
+    # Unused atm, 
     #self.outlinePointsInput3 = qt.QLineEdit()
     #self.outlinePointsInput3.setPlaceholderText("3. Enter comma-separated landmark numbers")
     #self.outlinePointsInput3.setToolTip("Input comma-separated landmark numbers for third triangle line (e.g. 1,2,3,4,5)")
